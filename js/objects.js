@@ -83,5 +83,25 @@ var objects = [
     "source":"http://aj-r.github.io/Evil-2048/",
     "name":"Evil 2048",
     "comment":""
+  },
+  {
+    "source":"http://1338h4x.github.io/2-2-4/",
+    "name":"2+2=4",
+    "comment":""
+  },
+  {
+    "source":"http://quaxio.com/2048/",
+    "name":"2048-undo",
+    "comment":""
+  },
+  {
+    "source":"http://amschrader.github.io/2048/",
+    "name":"2048 Pokemon",
+    "comment":""
+  },
+  {
+    "source":"http://balderdash.github.io/2048/",
+    "name":"Speed 2048",
+    "comment":""
   }
 ];

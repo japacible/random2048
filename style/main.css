@@ -34,3 +34,12 @@ div {
 #header {
   text-align: center;
 }
+button {
+  color: #ffffff;
+  background: #bbada0;
+  padding: 15px;
+  border-radius: 3px;
+  font-size: 20px;
+  font-weight: none;
+  width: 200px;
+}
