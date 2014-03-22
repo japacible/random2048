@@ -104,4 +104,8 @@ var objects = [
     "name":"Speed 2048",
     "comment":""
   }
+    "source":"http://louhuang.com/2048-numberwang/",
+    "name":"2048 Numberwang",
+    "comment":""
+  }
 ];
