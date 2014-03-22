@@ -103,9 +103,15 @@ var objects = [
     "source":"http://balderdash.github.io/2048/",
     "name":"Speed 2048",
     "comment":""
-  }
+  },
+  {
     "source":"http://louhuang.com/2048-numberwang/",
     "name":"2048 Numberwang",
+    "comment":""
+  },
+  {
+    "source":"http://www.donaldguy.com/Flappy-Doge2048/",
+    "name":"Flappy Doge 2048",
     "comment":""
   }
 ];
